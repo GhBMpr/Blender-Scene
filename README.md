@@ -13,23 +13,26 @@ The project features a friendly outdoor setting with simple shapes, soft colors,
 
 This Blender scene depicts a small family enjoying a peaceful moment in nature:
 
-* 🔥 **Campfire** with flickering animated light
-* 👨‍👩‍👧‍👦 **Parents** sitting near the fire
-* 🧒👧 **Two kids** running and playing around
-* 🌲 **Low-poly stylized environment** (trees, terrain, sky)
-* 🎥 **Camera animation** for smooth shots
-* 🌈 Colorful, warm lighting suitable for kids’ content
+* 🌕 **Full moon sky** casting soft blue night light
+* 🔥 **Campfire** with animated flickering glow
+* 👨‍👧 **A dad and his daughter** sitting together near the fire
+* 🎪 **A tent** placed next to the camp to reinforce the camping theme
+* 🌳 **Two different kinds of stylized trees** surrounding the area
+* 🌲 Low-poly terrain and environment layout
+* 🎥 Simple camera movement to enhance storytelling
 
 The scene aims to balance simplicity and charm, making it ideal for animation studies, portfolio work, or educational projects.
 
 ---
 
+
 ## ✨ **Features**
 
-* Low-poly stylized art
-* Playful light animation
-* Organized scene structure (collections, naming, assets)
-* Render-ready
+* Two unique tree types for variety
+* Full-moon night lighting
+* Campfire emission animation
+* Organized Blender collections
+* Low-poly artistic style
 * Git-friendly setup using **Git LFS**
 
 ---
