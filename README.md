@@ -1,4 +1,4 @@
-# 🎨 **Blender Camping Scene — Stylized Family Animation**
+# 🎨 **Blender Camping Scene **
 
 ![Blender](https://img.shields.io/badge/Blender-3.x-orange?logo=blender\&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
